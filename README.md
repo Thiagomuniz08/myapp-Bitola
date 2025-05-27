@@ -1,4 +1,4 @@
-# App Calculo de Bitola
+#  Calculo de Bitola
 Aplicativo de calculo de Bitola 
 
 ## Tecnologias
@@ -19,6 +19,6 @@ flutter run
 ```
 
 ## Prints 
-![Calculadora](finaciamentos.png)
+![Bitola](bitola.png)
 
 ## Repositórios 
