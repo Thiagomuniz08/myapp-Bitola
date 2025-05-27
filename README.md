@@ -22,3 +22,11 @@ flutter run
 ![Bitola](bitola.png)
 
 ## Repositórios 
+https://github.com/Thiagomuniz08/Investimentos
+
+https://github.com/Thiagomuniz08/App-Login
+
+https://github.com/Thiagomuniz08/Financiamento
+
+https://github.com/Thiagomuniz08/AvaliacaoIMC
+
